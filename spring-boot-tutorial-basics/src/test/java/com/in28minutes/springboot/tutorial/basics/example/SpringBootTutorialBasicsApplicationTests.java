@@ -12,9 +12,4 @@ public class SpringBootTutorialBasicsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-	
-	@Test
-	public void testMe() {
-	}
-
 }
